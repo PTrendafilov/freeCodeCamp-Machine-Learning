@@ -1,5 +1,4 @@
-# Rock Paper Scissors
-
+# RPS.py is the strategy
 The given strategy is an advanced approach to the Rock-Paper-Scissors game, which uses a higher-order Markov chain and variable history length to predict the opponent's next move based on their past moves. Here is an explanation of the strategy:
 
 # Initialization
